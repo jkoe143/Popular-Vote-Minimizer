@@ -1,8 +1,3 @@
-//-----------------------------------------
-// Popular Vote Minimizer Application
-// Course: CS 211 - Programming Practicuum
-// Instructor: Prof. Scott Reckinger
-//-----------------------------------------
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
