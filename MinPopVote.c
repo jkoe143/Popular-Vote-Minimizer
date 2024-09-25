@@ -1,9 +1,3 @@
-/*-------------------------------------------
-Project 3: Popular Vote minimizer
-Course: CS 211, Summer 2024, UIC
-System: Advanced zyLab system
-Author: Jason Park
--------------------------------------------*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
